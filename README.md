@@ -2,6 +2,9 @@
 
 ![image](https://github.com/rkrakhikumari/xzect_task7/assets/146644990/d3c73395-5629-4655-bd00-95b65e463a4a)
 
+![image](https://github.com/rkrakhikumari/xzect_task7/assets/146644990/5cf95d18-8695-4413-8232-ffceab027908)
+
+
 
 
 # 🚀 Getting started with Strapi
